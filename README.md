@@ -1,2 +1,2 @@
 # giftastic
-GIF searcher using node.js and Giphy's API
+GIF searcher using HTML, CSS, Javascript and Giphy's API
